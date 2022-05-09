@@ -22,4 +22,4 @@ This app uses CelebrityBucks api as backend. You can get some celebrities' birth
 ![Alt Text](api.gif)
 #### Toggle and Delete
 Double click to toggle. Click the delete icon to delete item. 
-![Alt Text](toggle and delete.gif)
+![Alt Text](toggleanddelete.gif)
