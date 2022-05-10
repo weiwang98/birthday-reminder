@@ -16,10 +16,10 @@ Install my-project with npm
 ## Demo
 #### Add Birthday
 You can add the birthday of people you care about by typing their information. 
-![Alt Text](add.gif)
+![add demo](add.gif)
 #### Celebrities' Birthdays
 This app uses CelebrityBucks api as backend. You can get some celebrities' birthdays on the list by default. 
-![Alt Text](api.gif)
+![api demo](api.gif)
 #### Toggle and Delete
 Double click to toggle. Click the delete icon to delete item. 
-![Alt Text](toggleanddelete.gif)
+![delete and toggle demo](toggleanddelete.gif)
